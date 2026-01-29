@@ -1,4 +1,4 @@
-from util import process_command
+from src.lists.util import process_command
 
 def main():
     n = int(input())
